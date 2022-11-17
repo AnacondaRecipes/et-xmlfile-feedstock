@@ -37,3 +37,5 @@ about:
 extra:
   recipe-maintainers:
     - npavlovikj
+  anaconda:
+    reason: "Top 5000 pypi download"
